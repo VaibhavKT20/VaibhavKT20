@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vaibhavkr522@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14qCA4QgKCZZ8nCxzloa0TXrV-cZZFdt4?usp=sharing]((https://drive.google.com/drive/folders/14qCA4QgKCZZ8nCxzloa0TXrV-cZZFdt4?usp=sharing))
+- 📄 Know about my experiences(https://drive.google.com/drive/folders/14qCA4QgKCZZ8nCxzloa0TXrV-cZZFdt4?usp=sharing)
 
 - ⚡ Fun fact **I can turn any everyday problem into a coding challenge. From optimizing my grocery list to automating my morning routine, I'm always finding creative ways to use my tech skills in everyday life.**
 
