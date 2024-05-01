@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences[Resume](https://drive.google.com/drive/folders/14qCA4QgKCZZ8nCxzloa0TXrV-cZZFdt4?usp=sharing)
 
-- ⚡ Fun fact **I can turn any everyday problem into a coding challenge. From optimizing my grocery list to automating my morning routine, I'm always finding creative ways to use my tech skills in everyday life.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav522_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav522_" height="30" width="40" /></a>
