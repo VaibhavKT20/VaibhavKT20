@@ -1,62 +1,118 @@
+<!-- Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Kumar</h1>
-
-<h3 align="center">Full Stack Engineer (MERN) | Crafting responsive, real-world web apps | Firebase • Appwrite • Tailwind</h3>
+<h3 align="center">Full Stack Developer (MERN) | AI Integration | Scalable Systems | Cloud Deployment</h3>
 
 <p align="center">
   <a href="https://github.com/vaibhavkt20">
     <img src="https://komarev.com/ghpvc/?username=vaibhavkt20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vaibhavkt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vaibhav_kumar522/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/vaibhav_kumar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on [LinkUp – MERN Social Media App](https://mernsocialmedia-9rac.onrender.com/)  
-- 🌱 I’m currently learning **Backend architecture (Node.js, Express.js, API security), DevOps (Docker, CI/CD, AWS, GitHub Actions), and practicing DSA daily**  
-- 👯 I’m looking to collaborate on **Open-source MERN or DevOps projects – especially full-stack apps, tools, or scalable backend systems. Let’s build something amazing together!**  
-- 🤝 I’m looking for help with **DevOps automation, CI/CD pipelines, and scaling backend services**  
-- 👨‍💻 All of my projects are available at [https://github.com/VaibhavKT20](https://github.com/VaibhavKT20)  
-- 📝 I regularly write articles on [Coming Soon — tech blogs in progress!](Coming Soon — tech blogs in progress!)  
-- 💬 Ask me about **React.js, Appwrite, Firebase, Tailwind CSS, GSAP, Chakra UI**  
-- 📫 How to reach me **vaibhavkr522@gmail.com**  
-- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/14qCA4QgKCZZ8nCxzloa0TXrV-cZZFdt4)  
-- ⚡ Fun fact: **I debug errors better with music 🎧 and tea☕ (also, I think I’m funny 😄)**
+I'm a **Full-Stack MERN Developer** passionate about building scalable products, intelligent web apps, and fast backend systems.  
+I have hands-on experience with **AI APIs, SaaS development, JWT auth, cloud deployment**, and problem-solving with **300+ DSA** challenges.
+
+🔹 Built SaaS apps serving **1000+ users**, handling **500+ daily AI requests**  
+🔹 Strong in **API security, scalable architecture, DB optimization**  
+🔹 Proficient with **Appwrite, Firebase, PostgreSQL, Image CDN optimization, AWS basics**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 **What I Do**
+- Build **production-grade full-stack apps** (React + Node.js + MongoDB/PostgreSQL)
+- Integrate **AI (Gemini, ClipDrop, GenAI APIs)** into real workflows
+- Create fast, responsive UI using **Tailwind, Chakra UI**
+- Implement **secure authentication (JWT, Clerk, RBAC)**
+- Deploy apps on **Vercel, Render, Cloudinary, ImageKit**
+- Write clean, modular backend with **Express.js**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+React.js • Next.js • JavaScript • TailwindCSS • Chakra UI • Responsive UI • GSAP
+
+### **Backend**
+Node.js • Express.js • REST APIs • Authentication • API Security • Multer • Socket.IO
+
+### **Databases**
+MongoDB • PostgreSQL (Neon) • Firebase • SQL
+
+### **Cloud & DevOps**
+Vercel • Render • Cloudinary • ImageKit • Docker (Basics) • CI/CD (Basics)
+
+### **Other Skills**
+Git • GitHub • Postman • Agile • Debugging • DSA Problem Solving
+
+---
+
+## 🏗️ **Projects (Best Work)**
+
+### ⚡ **FLOWAI – AI-Powered SaaS Platform**  
+_Resume Parser • AI Content • Media Editing_  
+🔗 GitHub: https://github.com/VaibhavKT20/AI-SAAS-FLOWAI  
+🔗 Live Demo: https://ai-saas-flowai-yldd.vercel.app/
+
+- Handles **500+ AI requests daily**
+- RBAC + subscription system for **1000+ active users**
+- Reduced load time by **35%** via backend & CDN optimization  
+- **Stack:** React, Node.js, Express, PostgreSQL (Neon), Clerk, Cloudinary, Tailwind, Gemini API, ClipDrop
+
+---
+
+### 📝 **WORDNEST – AI-Powered Blog App**  
+🔗 GitHub: https://github.com/VaibhavKT20/AI-Powered-Blog-Application  
+🔗 Live Demo: https://ai-powered-blog-application-1tth.vercel.app/
+
+- SEO-optimized AI article generator  
+- Handles **100+ concurrent users**  
+- **30% faster media load** using ImageKit + caching  
+- **Stack:** React, Tailwind, Node.js, Express, MongoDB, JWT, ImageKit, Multer
+
+---
+
+### 🌐 **LINKUP – Full-Stack Social Media App**  
+🔗 GitHub: https://github.com/VaibhavKT20/MernSocialMedia  
+🔗 Live Demo: https://mernsocialmedia-9rac.onrender.com/auth
+
+- Modular REST APIs + secure JWT auth  
+- Real-time chat using **Socket.IO**  
+- Responsive UI using **Chakra UI**  
+- **Stack:** React, Node.js, MongoDB, JWT, Chakra UI, Socket.IO
+
+---
+
+## 📜 **Education**
+**B.E. in Information Science & Engineering**  
+Nitte Meenakshi Institute of Technology, Bengaluru (2021–2025)  
+**CGPA:** 8.69  
+
+---
+
+## 🏆 **Achievements**
+- Solved **300+ DSA problems** on LeetCode + GFG  
+- Conducted MERN & Git seminars for **50+ students** (ASE Club Leader)  
+- Certified in **Full-Stack Web Development & Java Programming**
+
+---
+
+## 🌍 **Connect With Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/vaibhavkt/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vaibhav_thakur20/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/vaibhav_kumar522/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/vaibhav_kumar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/vaibhavkt/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/vaibhav_thakur20/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/vaibhav_kumar522/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vaibhav_kumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 ---
+
 
 <h3 align="left">Languages and Tools:</h3>
 
