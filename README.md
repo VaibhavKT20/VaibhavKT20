@@ -100,16 +100,6 @@ Nitte Meenakshi Institute of Technology, Bengaluru (2021–2025)
 - Conducted MERN & Git seminars for **50+ students** (ASE Club Leader)  
 - Certified in **Full-Stack Web Development & Java Programming**
 
----
-
-## 🌍 **Connect With Me**
-
-<p align="left">
-  <a href="https://linkedin.com/in/vaibhavkt/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/vaibhav_thakur20/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vaibhav_kumar522/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vaibhav_kumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -223,6 +213,15 @@ Nitte Meenakshi Institute of Technology, Bengaluru (2021–2025)
 </p>
 
 ---
+
+## 🌍 **Connect With Me**
+
+<p align="left">
+  <a href="https://linkedin.com/in/vaibhavkt/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/vaibhav_thakur20/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/vaibhav_kumar522/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vaibhav_kumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+</p>
 
 Thanks for stopping by! Let's connect and build amazing things together. 🚀
 
